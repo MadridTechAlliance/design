@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Inverted</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="40.8364213 0 88.8525729 0 46.9687625 146.334804 0 146.334804"></polygon>
+        <polygon id="path-2" points="40.8364213 0 88.8525729 0 46.9687625 146.334804 0 146.334804"></polygon>
+    </defs>
+    <g id="Logo-Inverted" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" fill-opacity="0.719570879" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
+        <text id="ALLIANCE" font-family="Avenir-Book, Avenir" font-size="168" font-weight="normal" fill="#A7CA74">
+            <tspan x="116.276" y="789">ALLIANCE</tspan>
+        </text>
+        <text id="TECH" font-family="Righteous-Regular, Righteous" font-size="209" font-weight="normal" fill="#A7CA74">
+            <tspan x="252.178711" y="604">TECH</tspan>
+        </text>
+        <g id="LOGO" transform="translate(109.000000, 251.000000)">
+            <path d="M100.807339,59.1902655 L111.994495,0 L153.669725,0 L123.10789,147 L117.40367,147 L81.2851376,147 L47.9449541,0 L89.6201835,0 L100.807339,59.1902655 Z" id="Combined-Shape" fill="#A7CA74"></path>
+            <g id="KIO-2" transform="translate(156.500000, 73.500000) scale(-1, 1) translate(-156.500000, -73.500000) translate(112.000000, 0.000000)">
+                <g id="Rectangle-3">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#A7CA74" stroke-width="6.0984" d="M43.1512098,3.0492 L4.01661768,143.285604 L44.6698626,143.285604 L84.8081947,3.0492 L43.1512098,3.0492 Z"></path>
+                </g>
+                <rect id="Rectangle" fill="#A7CA74" x="41.4442023" y="3.84313725" width="5.78291194" height="141.235294"></rect>
+                <rect id="Rectangle-4" fill="#A7CA74" x="33.733653" y="27.5625" width="44.3356582" height="7.02573529"></rect>
+                <rect id="Rectangle-4" fill="#A7CA74" x="25.0592851" y="62.1507353" width="44.3356582" height="7.02573529"></rect>
+                <rect id="Rectangle-4" fill="#A7CA74" x="15.4210985" y="97.6997549" width="40.4803836" height="7.02573529"></rect>
+            </g>
+            <g id="KIO">
+                <g id="Rectangle-3">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#A7CA74" stroke-width="6.0984" d="M43.1512098,3.0492 L4.01661768,143.285604 L44.6698626,143.285604 L84.8081947,3.0492 L43.1512098,3.0492 Z"></path>
+                </g>
+                <rect id="Rectangle" fill="#A7CA74" x="41.4442023" y="3.84313725" width="5.78291194" height="141.235294"></rect>
+                <rect id="Rectangle-4" fill="#A7CA74" x="33.733653" y="27.8627451" width="44.3356582" height="6.7254902"></rect>
+                <rect id="Rectangle-4" fill="#A7CA74" x="25.0592851" y="62.4509804" width="44.3356582" height="6.7254902"></rect>
+                <rect id="Rectangle-4" fill="#A7CA74" x="15.4210985" y="98" width="40.4803836" height="6.7254902"></rect>
+            </g>
+        </g>
+        <text id="ADRID" font-family="Righteous-Regular, Righteous" font-size="209" font-weight="normal" fill="#A7CA74">
+            <tspan x="309.103027" y="395">ADRID</tspan>
+        </text>
+    </g>
+</svg>

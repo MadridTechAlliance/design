@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Slack</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="163.345685 0 355.410292 0 187.87505 585.339217 0 585.339217"></polygon>
+        <polygon id="path-2" points="163.345685 0 355.410292 0 187.87505 585.339217 0 585.339217"></polygon>
+    </defs>
+    <g id="Slack" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" fill-opacity="0.719570879" fill="#84B43D" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="LOGO" transform="translate(110.000000, 218.000000)">
+            <path d="M403.229358,236.761062 L447.977982,0 L614.678899,0 L492.43156,588 L469.614679,588 L325.14055,588 L191.779817,0 L358.480734,0 L403.229358,236.761062 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <g id="KIO-2" transform="translate(626.000000, 294.000000) scale(-1, 1) translate(-626.000000, -294.000000) translate(448.000000, 0.000000)">
+                <g id="Rectangle-3">
+                    <use fill="#A7CA74" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="24.3936" d="M172.604839,12.1968 L16.0664707,573.142417 L178.679451,573.142417 L339.232779,12.1968 L172.604839,12.1968 Z"></path>
+                </g>
+                <rect id="Rectangle" fill="#FFFFFF" x="165.776809" y="15.372549" width="23.1316478" height="564.941176"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="134.934612" y="110.25" width="177.342633" height="28.1029412"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="100.23714" y="248.602941" width="177.342633" height="28.1029412"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="61.6843941" y="390.79902" width="161.921534" height="28.1029412"></rect>
+            </g>
+            <g id="KIO">
+                <g id="Rectangle-3">
+                    <use fill="#A7CA74" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#FFFFFF" stroke-width="24.3936" d="M172.604839,12.1968 L16.0664707,573.142417 L178.679451,573.142417 L339.232779,12.1968 L172.604839,12.1968 Z"></path>
+                </g>
+                <rect id="Rectangle" fill="#FFFFFF" x="165.776809" y="15.372549" width="23.1316478" height="564.941176"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="134.934612" y="111.45098" width="177.342633" height="26.9019608"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="100.23714" y="249.803922" width="177.342633" height="26.9019608"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="61.6843941" y="392" width="161.921534" height="26.9019608"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
