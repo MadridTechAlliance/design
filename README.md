@@ -1,4 +1,4 @@
-# Identidad Visual VigoTech Alliance
+# Identidad Visual MadridTech Alliance
 ![identidad visual](art/identity.jpg)
 
 ## Tipografía
@@ -17,6 +17,3 @@ CMYK 26, 0, 66, 29
 Hex #84B43D
 RGB 132, 180, 61
 ```
-
-
-
